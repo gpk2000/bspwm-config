@@ -1,0 +1,50 @@
+# Font configuration
+font:
+  # Normal (roman) font face
+  normal:
+    family: "JetBrains Mono NL"
+    #style: Regular
+
+  # Bold font face
+  bold:
+    family: "JetBrains Mono NL"
+    #style: Bold
+
+  # Italic font face
+  italic:
+    family: "JetBrains Mono NL"
+    #style: Italic
+
+  # Bold italic font face
+  bold_italic:
+    family: "JetBrains Mono NL"
+    #style: Bold Italic
+
+  # Point size
+  size: 12
+
+  # Offset
+  #offset:
+  #  x: 0
+  #  y: 0
+
+  # Glyph offset
+  #glyph_offset:
+  #  x: 0
+  #  y: 0
+env:
+  TERM: alacritty
+
+## Background opacity
+background_opacity: 0.9
+
+## Cursor
+cursor:
+  style:
+    shape: underline
+    blinking: On
+
+  unfocused_hollow: false
+
+## Live config reload
+live_config_reload: true
