@@ -2,26 +2,26 @@
 font:
   # Normal (roman) font face
   normal:
-    family: "JetBrains Mono NL"
+    family: "mononoki"
     #style: Regular
 
   # Bold font face
   bold:
-    family: "JetBrains Mono NL"
+    family: "mononoki"
     #style: Bold
 
   # Italic font face
   italic:
-    family: "JetBrains Mono NL"
+    family: "mononoki"
     #style: Italic
 
   # Bold italic font face
   bold_italic:
-    family: "JetBrains Mono NL"
+    family: "mononoki"
     #style: Bold Italic
 
   # Point size
-  size: 12
+  size: 14
 
   # Offset
   #offset:
