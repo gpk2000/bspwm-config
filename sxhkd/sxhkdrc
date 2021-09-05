@@ -2,9 +2,30 @@
 # wm independent hotkeys
 #
 
+super + minus
+	amixer -D pulse sset Master 5%-
+
+super + plus
+	amixer -D pulse sset Master 5%
+
+Print
+	flameshot gui
+
 # terminal emulator
 super + Return
 	alacritty
+
+super + BackSpace
+	powermenu
+
+super + period
+	sp next
+
+super + comma
+	xp previous
+
+super + slash
+	sp play
 
 # program launcher
 super + d
