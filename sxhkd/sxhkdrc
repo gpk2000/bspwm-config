@@ -19,13 +19,13 @@ super + BackSpace
 	powermenu
 
 super + period
-	sp next
+	playerctl next
 
 super + comma
-	xp previous
+	playerctl previous
 
 super + slash
-	sp play
+	playerctl play-pause
 
 # program launcher
 super + d

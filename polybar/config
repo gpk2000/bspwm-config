@@ -258,9 +258,10 @@ accumulate-stats = true
 unknown-as-up = true
 
 format-connected = <label-connected>
+format-disconnected = <label-disconnected>
 
-label-connected = 🔻 %downspeed:5% 🔺 %upspeed:5%
-
+label-connected = 🌐 %downspeed:8%
+label-disconnected = 🚫 down
 [module/battery]
 type = internal/battery
 
