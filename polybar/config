@@ -45,7 +45,7 @@ overline-size = 0
 background = ${colors.background}
 foreground = ${colors.foreground}
 
-font-0 = NotoSansMono:pixelsize=12;
+font-0 = JetBrains Mono NL:pixelsize=10.5;
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = NotoColorEmoji:fontformat=truetype:scale=10:antialias=false;
 

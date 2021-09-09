@@ -2,26 +2,26 @@
 font:
   # Normal (roman) font face
   normal:
-    family: "Noto Sans Mono"
+    family: "JetBrains Mono NL"
     #style: Regular
 
   # Bold font face
   bold:
-    family: "Noto Sans Mono"
+    family: "JetBrains Mono NL"
     #style: Bold
 
   # Italic font face
   italic:
-    family: "Noto Sans Mono"
+    family: "JetBrains Mono NL"
     #style: Italic
 
   # Bold italic font face
   bold_italic:
-    family: "Noto Sans Mono"
+    family: "JetBrains Mono NL"
     #style: Bold Italic
 
   # Point size
-  size: 11
+  size: 10.5
 
   # Offset
   #offset:
